@@ -1,5 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
+<p align="center">
+  <img src="922cd593-48bd-439a-9029-9a407295142c.png" alt="Celo Testnet Transaction Screenshot" width="700"/>
+</p>
+
 
 /*
  * FlipCoin - Simple coin flip betting game (demo version)
