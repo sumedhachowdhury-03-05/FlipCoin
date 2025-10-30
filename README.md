@@ -51,6 +51,8 @@ Network: Celo Sepolia Testnet
 
 Contract Name: FlipCoin
 
+Contract Address : 0xae77a3500B0aDA4C460F270fD8D63783376e04bF
+
 Deployed Transaction or Contract Address:
 👉 View on Blockscout
  (replace with your actual contract address once deployed)
